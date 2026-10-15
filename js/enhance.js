@@ -64,8 +64,8 @@
         const badges = document.querySelectorAll("[data-open-now]");
         if (!badges.length) return;
 
-        // Sat–Thu 09:00–22:00, Fri 16:00–22:00  (0 = Sunday … 5 = Friday, 6 = Saturday)
-        const hours = (day) => (day === 5 ? [16, 22] : [9, 22]);
+        // Sat–Thu 09:00–23:00, Fri 16:00–23:00  (0 = Sunday … 5 = Friday, 6 = Saturday)
+        const hours = (day) => (day === 5 ? [16, 23] : [9, 23]);
         const fmt = (h) => (h > 12 ? h - 12 : h) + ":00 " + (h >= 12 ? "PM" : "AM");
 
         function dubaiNow() {
@@ -83,7 +83,7 @@
             const now = dubaiNow();
             badges.forEach((el) => {
                 if (!now) {
-                    el.textContent = "Sat–Thu 9 AM–10 PM · Fri 4 PM–10 PM";
+                    el.textContent = "Sat–Thu 9 AM–11 PM · Fri 4 PM–11 PM";
                     return;
                 }
                 const [open, close] = hours(now.day);

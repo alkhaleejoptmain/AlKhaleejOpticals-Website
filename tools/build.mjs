@@ -478,7 +478,7 @@ const BRANCHES = [
 function buildLocationsPage() {
   const file = "locations.html";
   const title = "Optician in Al Nakheel, Ras Al Khaimah | 3 Branches | Al Khaleej Opticals";
-  const desc = "Find Al Khaleej Opticals in Al Nakheel, Ras Al Khaimah — eye tests, prescription glasses, sunglasses and contact lenses at 3 branches. Open Sat–Thu 9AM–10PM, Fri 4PM–10PM. Call +971 56 774 3136.";
+  const desc = "Find Al Khaleej Opticals in Al Nakheel, Ras Al Khaimah — eye tests, prescription glasses, sunglasses and contact lenses at 3 branches. Open Sat–Thu 9AM–11PM, Fri 4PM–11PM. Call +971 56 774 3136.";
   const items = faqs.general.filter((_, i) => [0, 1, 3].includes(i));
   const schema = [
     breadcrumb([["Home", "index.html"], ["Locations", file]]),
@@ -511,7 +511,7 @@ ${BRANCHES.map(
                         <h3>${esc(b.name)}</h3>
                         <p class="branch-area">${esc(b.area)}, UAE</p>
                         <p><a href="tel:${PHONE_TEL}">${PHONE_DISPLAY}</a></p>
-                        <p class="branch-hours">Sat–Thu 9 AM–10 PM<br>Fri 4 PM–10 PM</p>
+                        <p class="branch-hours">Sat–Thu 9 AM–11 PM<br>Fri 4 PM–11 PM</p>
                         <div class="button-row">
                             <a class="btn btn-maroon btn-sm" href="${b.map}" target="_blank" rel="noopener noreferrer">Get Directions</a>
                             <a class="btn btn-outline-dark btn-sm" href="${wa(`Hi Al Khaleej Opticals, I'd like to visit ${b.name}.`)}" target="_blank" rel="noopener noreferrer">WhatsApp</a>
@@ -642,7 +642,7 @@ function buildLlmsFull() {
   lines.push(`# Al Khaleej Opticals — full reference for AI assistants and search engines`);
   lines.push(`\nLast updated: ${TODAY}\n`);
   lines.push(`Al Khaleej Opticals is a trusted optician and eyewear store in Al Nakheel, Ras Al Khaimah (RAK), United Arab Emirates, serving customers for more than 22 years (since 2004). It has 3 branches in Ras Al Khaimah, including two in Al Nakheel.`);
-  lines.push(`\n## Contact\n- Phone / WhatsApp: ${PHONE_DISPLAY}\n- Email: ${EMAIL}\n- Website: ${SITE}/\n- Hours: Saturday–Thursday 9:00 AM–10:00 PM; Friday 4:00 PM–10:00 PM (UAE time, GMT+4)`);
+  lines.push(`\n## Contact\n- Phone / WhatsApp: ${PHONE_DISPLAY}\n- Email: ${EMAIL}\n- Website: ${SITE}/\n- Hours: Saturday–Thursday 9:00 AM–11:00 PM; Friday 4:00 PM–11:00 PM (UAE time, GMT+4)`);
   lines.push(`\n## Branches\n${BRANCHES.map((b) => `- ${b.name} (${b.area}, UAE): ${b.map}`).join("\n")}`);
   lines.push(`\n## Services\n- Comprehensive eye tests by qualified optometrists\n- Driving licence eye tests\n- Prescription glasses (single vision, progressive, blue-light, anti-reflective)\n- Contact lens fitting and supply\n- Sunglasses (including prescription sunglasses)\n- Repairs and adjustments\n- Corporate vision care programmes and bulk delivery\n- Free online AI Frame Finder (face-shape analysis and virtual try-on, runs in the browser)\n- Insurance support (ADNIC, NAS, Nextcare, Mednet, Orient, Saico Health — cover depends on the plan)`);
   lines.push(`\n## Brands (each has its own page)\n${brands.map((b) => `- [${b.name}](${SITE}/${brandFile(b)}): ${b.tagline}.`).join("\n")}`);
