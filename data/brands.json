@@ -1,0 +1,355 @@
+[
+  {
+    "slug": "ray-ban",
+    "name": "Ray-Ban",
+    "logo": "assets/brands/rayban.jpg",
+    "types": [
+      "frames",
+      "sunglasses"
+    ],
+    "tagline": "Iconic eyewear, fitted by Ras Al Khaimah's trusted optician",
+    "intro": [
+      "Ray-Ban is one of the most recognised eyewear names in the world, known since 1937 for timeless shapes such as the Aviator, Wayfarer and Clubmaster. At Al Khaleej Opticals in Al Nakheel, Ras Al Khaimah, you can try Ray-Ban optical frames and sunglasses in person and have them fitted by our optometrists.",
+      "Whether you want everyday prescription glasses, a classic pair of sunglasses, or prescription sunglasses made to your exact power, our team will match the frame shape to your face and the lenses to your eyes."
+    ],
+    "highlights": [
+      "Classic Aviator, Wayfarer and Clubmaster styles",
+      "Optical frames and sunglasses",
+      "Prescription and polarised lens options",
+      "Fitted and adjusted by our optometrists"
+    ],
+    "keywords": [
+      "Ray-Ban Ras Al Khaimah",
+      "Ray-Ban glasses RAK",
+      "Ray-Ban sunglasses UAE",
+      "Ray-Ban prescription glasses",
+      "Aviator sunglasses Ras Al Khaimah",
+      "Wayfarer Ras Al Khaimah"
+    ]
+  },
+  {
+    "slug": "emporio-armani",
+    "name": "Emporio Armani",
+    "logo": "assets/brands/emporio-armani.png",
+    "types": [
+      "frames",
+      "sunglasses"
+    ],
+    "tagline": "Italian contemporary style for glasses and sunglasses",
+    "intro": [
+      "Emporio Armani is the contemporary line of the Armani fashion house, bringing clean Italian design to optical frames and sunglasses. At Al Khaleej Opticals you can compare Emporio Armani styles side by side with other premium brands and see how each one sits on your face.",
+      "Our optometrists will pair your chosen frame with the right lens — single vision, progressive, blue-light filtering or tinted — so the glasses look refined and feel comfortable all day."
+    ],
+    "highlights": [
+      "Contemporary Italian design",
+      "Optical frames and sunglasses",
+      "Prescription lenses fitted in-store",
+      "Style advice from our eyewear consultants"
+    ],
+    "keywords": [
+      "Emporio Armani glasses Ras Al Khaimah",
+      "Emporio Armani sunglasses UAE",
+      "Armani frames RAK",
+      "designer glasses Ras Al Khaimah"
+    ]
+  },
+  {
+    "slug": "armani-exchange",
+    "name": "Armani Exchange",
+    "logo": "assets/brands/AX.jpg",
+    "types": [
+      "frames",
+      "sunglasses"
+    ],
+    "tagline": "Urban, modern Armani eyewear at a more approachable level",
+    "intro": [
+      "Armani Exchange (A|X) is Armani's urban, youthful line, with bold but wearable eyewear for everyday life. Al Khaleej Opticals in Ras Al Khaimah carries Armani Exchange frames and sunglasses so you can try them in-store and choose the shape that suits you.",
+      "From first pair to fashion upgrade, we fit each frame with the right prescription lenses and adjust it so it sits comfortably."
+    ],
+    "highlights": [
+      "Modern, urban Armani styling",
+      "Optical frames and sunglasses",
+      "Great for daily wear",
+      "Prescription fitting and adjustment in-store"
+    ],
+    "keywords": [
+      "Armani Exchange glasses Ras Al Khaimah",
+      "Armani Exchange sunglasses RAK",
+      "AX eyewear UAE",
+      "branded glasses Ras Al Khaimah"
+    ]
+  },
+  {
+    "slug": "essilor",
+    "name": "Essilor",
+    "logo": "assets/brands/essilor.png",
+    "types": [
+      "lenses"
+    ],
+    "tagline": "Precision prescription lenses from a world leader in vision correction",
+    "intro": [
+      "Essilor is one of the world's leading lens makers, known for ranges such as Varilux progressive lenses and Crizal anti-reflective coatings. Choosing the right lens matters as much as choosing the frame, and our optometrists at Al Khaleej Opticals will explain which Essilor option suits your prescription, work and lifestyle.",
+      "From single vision lenses for everyday wear to progressives for presbyopia and lenses for long hours on screens, we help you compare options clearly before you decide."
+    ],
+    "highlights": [
+      "Single vision, bifocal and progressive lenses",
+      "Anti-reflective and scratch-resistant coatings",
+      "Digital-screen and blue-light protection options",
+      "Lenses fitted into frames of your choice"
+    ],
+    "collections": [
+      {
+        "title": "Single vision lenses",
+        "text": "Clear, comfortable correction for distance or reading, in a range of thicknesses and coatings."
+      },
+      {
+        "title": "Progressive lenses",
+        "text": "One pair of glasses for near, intermediate and distance vision, fitted carefully to your measurements."
+      },
+      {
+        "title": "Anti-reflective coatings",
+        "text": "Reduce glare and reflections for clearer night driving and screen use, and easier-to-clean lenses."
+      },
+      {
+        "title": "Digital and blue-light lenses",
+        "text": "Lenses designed for people who spend hours on computers and phones."
+      }
+    ],
+    "keywords": [
+      "Essilor lenses Ras Al Khaimah",
+      "Varilux progressive lenses RAK",
+      "Crizal coating UAE",
+      "progressive lenses Ras Al Khaimah",
+      "anti reflective lenses RAK"
+    ]
+  },
+  {
+    "slug": "kodak-lens",
+    "name": "Kodak Lens",
+    "logo": "assets/brands/kodak.png",
+    "types": [
+      "lenses"
+    ],
+    "tagline": "Quality prescription lens options for everyday clarity",
+    "intro": [
+      "Kodak Lens offers prescription lens options for people who want dependable clarity and protection in their everyday glasses. At Al Khaleej Opticals in Ras Al Khaimah, our optometrists will recommend the lens type and coating that best fits your prescription and daily routine.",
+      "Ask us about single vision, progressive, blue-light filtering and UV-protective options, and we will explain the differences in simple terms."
+    ],
+    "highlights": [
+      "Prescription lens options for every need",
+      "UV and blue-light protection choices",
+      "Coatings for glare and scratch resistance",
+      "Lens advice from qualified opticians"
+    ],
+    "collections": [
+      {
+        "title": "Single vision lenses",
+        "text": "Everyday correction for distance or near vision."
+      },
+      {
+        "title": "Progressive lenses",
+        "text": "Seamless vision at all distances without visible lines."
+      },
+      {
+        "title": "Protective coatings",
+        "text": "Glare, scratch and UV protection options for long-lasting lenses."
+      },
+      {
+        "title": "Blue-light filtering lenses",
+        "text": "A comfortable option for people who work on screens."
+      }
+    ],
+    "keywords": [
+      "Kodak lens Ras Al Khaimah",
+      "prescription lenses RAK",
+      "blue light lenses Ras Al Khaimah",
+      "UV protection lenses UAE"
+    ]
+  },
+  {
+    "slug": "egma",
+    "name": "EGMA",
+    "logo": "assets/brands/egma.png",
+    "types": [
+      "lenses"
+    ],
+    "tagline": "Prescription lens options for clear, comfortable vision",
+    "intro": [
+      "EGMA Lens is part of the prescription lens range at Al Khaleej Opticals in Ras Al Khaimah. Our optometrists will test your eyes and explain which EGMA lens and coating suits your prescription and daily routine.",
+      "Bring your frame or choose a new one in our Al Nakheel showroom and we will fit, adjust and follow up afterwards."
+    ],
+    "highlights": [
+      "Single vision and progressive options",
+      "Coatings for glare, scratches and UV",
+      "Blue-light filtering choices",
+      "Fitted into the frame of your choice"
+    ],
+    "keywords": [
+      "EGMA lens Ras Al Khaimah",
+      "prescription lenses RAK",
+      "progressive lenses Ras Al Khaimah"
+    ],
+    "collections": [
+      {
+        "title": "Single vision lenses",
+        "text": "Everyday correction for distance or near vision."
+      },
+      {
+        "title": "Progressive lenses",
+        "text": "One pair for near, intermediate and distance vision."
+      },
+      {
+        "title": "Protective coatings",
+        "text": "Anti-reflective, scratch-resistant and UV options."
+      },
+      {
+        "title": "Blue-light filtering lenses",
+        "text": "A comfortable option for long hours on screens."
+      }
+    ]
+  },
+  {
+    "slug": "vincci",
+    "name": "Vincci",
+    "logo": "assets/brands/vincci.png",
+    "types": [
+      "frames"
+    ],
+    "tagline": "Fashion-forward frames you can try on in Al Nakheel",
+    "intro": [
+      "Vincci eyewear is available at Al Khaleej Opticals in Ras Al Khaimah. Come in to see the current Vincci frames, find a shape that flatters your face, and have the lenses made to your prescription by our optical team.",
+      "Not sure what suits you? Try our free AI Frame Finder online first, then visit us to try your favourites in person."
+    ],
+    "highlights": [
+      "Fashion-focused frame styles",
+      "Prescription lenses fitted in-store",
+      "Try the free AI Frame Finder before you visit",
+      "Ask our team for the latest styles"
+    ],
+    "keywords": [
+      "Vincci glasses Ras Al Khaimah",
+      "Vincci frames RAK",
+      "fashion glasses Ras Al Khaimah"
+    ]
+  },
+  {
+    "slug": "ocelot",
+    "name": "Ocelot",
+    "logo": "assets/brands/ocelot.png",
+    "types": [
+      "frames"
+    ],
+    "tagline": "Distinctive frames with a confident look",
+    "intro": [
+      "Ocelot is one of the frame brands you can browse at Al Khaleej Opticals in Al Nakheel, Ras Al Khaimah. Our consultants will help you choose a frame in the right size and shape, then fit it with the lenses you need.",
+      "From everyday office glasses to a second pair for weekends, we will help you build a look that is comfortable and practical."
+    ],
+    "highlights": [
+      "Distinctive, confident frame designs",
+      "Prescription lenses fitted in-store",
+      "Sizing and fitting by experienced staff",
+      "Ask our team for the latest styles"
+    ],
+    "keywords": [
+      "Ocelot glasses Ras Al Khaimah",
+      "Ocelot frames RAK",
+      "optical frames Ras Al Khaimah"
+    ]
+  },
+  {
+    "slug": "lyrica",
+    "name": "Lyrica",
+    "logo": "assets/brands/lyrica.jpg",
+    "types": [
+      "frames"
+    ],
+    "tagline": "Elegant frames with a lightweight feel",
+    "intro": [
+      "Lyrica frames are available at Al Khaleej Opticals in Ras Al Khaimah. Visit us to see the current styles, try them on, and let our optometrists recommend the lenses that suit your prescription.",
+      "We take care of the full process in one place: eye test, frame selection, lens fitting and later adjustments."
+    ],
+    "highlights": [
+      "Elegant, comfortable frame styles",
+      "Eye test and fitting in one visit",
+      "Prescription lenses fitted in-store",
+      "Ask our team for the latest styles"
+    ],
+    "keywords": [
+      "Lyrica glasses Ras Al Khaimah",
+      "Lyrica frames RAK",
+      "women's glasses Ras Al Khaimah"
+    ]
+  },
+  {
+    "slug": "gkb",
+    "name": "GKB",
+    "logo": "assets/brands/gkb.jpg",
+    "types": [
+      "frames"
+    ],
+    "tagline": "Reliable everyday frames with a modern touch",
+    "intro": [
+      "GKB frames are part of the range at Al Khaleej Opticals in Al Nakheel, Ras Al Khaimah. Our team will help you compare shapes and sizes, then fit the frame with lenses made for your prescription.",
+      "If you need glasses quickly or want a spare pair, ask us about turnaround times when you visit."
+    ],
+    "highlights": [
+      "Practical everyday frame styles",
+      "Prescription lenses fitted in-store",
+      "Adjustments and repairs in-store",
+      "Ask our team for the latest styles"
+    ],
+    "keywords": [
+      "GKB glasses Ras Al Khaimah",
+      "GKB frames RAK",
+      "affordable glasses Ras Al Khaimah"
+    ]
+  },
+  {
+    "slug": "matrix",
+    "name": "Matrix",
+    "logo": "assets/brands/matrix.jpeg",
+    "types": [
+      "frames"
+    ],
+    "tagline": "Clean, contemporary frames for work and play",
+    "intro": [
+      "Matrix eyewear is available at Al Khaleej Opticals in Ras Al Khaimah. Visit our showroom to see the latest Matrix frames and find a pair that fits your face and your budget.",
+      "Every frame is fitted with the right lenses by our optical team and can be adjusted or repaired in-store later."
+    ],
+    "highlights": [
+      "Clean contemporary frame designs",
+      "Prescription lenses fitted in-store",
+      "Adjustments and repairs in-store",
+      "Ask our team for the latest styles"
+    ],
+    "keywords": [
+      "Matrix glasses Ras Al Khaimah",
+      "Matrix frames RAK",
+      "optical shop Ras Al Khaimah"
+    ]
+  },
+  {
+    "slug": "pixel",
+    "name": "Pixel",
+    "logo": "assets/brands/pixel.png",
+    "types": [
+      "frames"
+    ],
+    "tagline": "Modern frames with a youthful edge",
+    "intro": [
+      "Pixel frames are available at Al Khaleej Opticals in Al Nakheel, Ras Al Khaimah. Come in to see the current styles, try a few on, and let our consultants help you decide.",
+      "We fit every frame with lenses that match your prescription, including blue-light options for long hours on screens."
+    ],
+    "highlights": [
+      "Modern, youthful frame designs",
+      "Blue-light and prescription lens options",
+      "Fitting and adjustment in-store",
+      "Ask our team for the latest styles"
+    ],
+    "keywords": [
+      "Pixel glasses Ras Al Khaimah",
+      "Pixel frames RAK",
+      "blue light glasses Ras Al Khaimah"
+    ]
+  }
+]

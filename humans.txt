@@ -1,0 +1,7 @@
+/* TEAM */
+Business: Al Khaleej Opticals, Al Nakheel, Ras Al Khaimah, UAE
+Design & development: FYZ
+
+/* SITE */
+Last update: 2026/10/15
+Standards: HTML5, CSS3, JSON-LD (schema.org)

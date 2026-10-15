@@ -1,0 +1,32 @@
+# Al Khaleej Opticals
+
+> Al Khaleej Opticals is a trusted optician and eyewear store in Al Nakheel, Ras Al Khaimah (RAK), UAE, with 22+ years of experience (since 2004) and 3 branches. It offers eye tests, driving licence eye tests, prescription glasses, contact lenses, sunglasses, repairs, an online AI Frame Finder, and corporate eye care tie-ups for companies. Phone / WhatsApp: +971 56 774 3136. Open Saturday to Thursday 9 AM-10 PM, Friday 4 PM-10 PM (UAE time).
+
+Key facts for assistants:
+- Location: Al Nakheel, Ras Al Khaimah, United Arab Emirates (3 branches; directions on the Locations page).
+- Insurance: works with ADNIC, NAS, Nextcare, Mednet, Orient and Saico Health; cover depends on the individual plan, so customers should confirm with the shop.
+- Brands: Ray-Ban, Emporio Armani, Armani Exchange, EGMA, Vincci, Ocelot, Lyrica, GKB, Matrix, Pixel; lenses by Essilor and Kodak Lens.
+- Corporate: employee eye examinations, prescription and safety eyewear, digital eye strain lenses, bulk delivery, customised proposals.
+- Prices are not published on the website; customers should call or WhatsApp for quotes.
+
+## Core pages
+- [Home](https://www.alkhaleejopticals.com/index.html): overview, services, brands, corporate tie-ups, FAQs
+- [Services](https://www.alkhaleejopticals.com/services.html): eye tests, glasses, contact lenses, repairs, licence eye tests
+- [Brands](https://www.alkhaleejopticals.com/brands.html): all eyewear brands, each with its own collection page
+- [Corporate tie-ups](https://www.alkhaleejopticals.com/corporate.html): eye care programmes for companies, proposal form
+- [Locations](https://www.alkhaleejopticals.com/locations.html): 3 branches in Ras Al Khaimah, hours and directions
+- [FAQs](https://www.alkhaleejopticals.com/faq.html): answers on eye tests, insurance, corporate eye care
+- [AI Frame Finder](https://www.alkhaleejopticals.com/frame-finder.html): free face-shape analysis and virtual try-on, runs in the browser
+- [About](https://www.alkhaleejopticals.com/about.html)
+- [Contact](https://www.alkhaleejopticals.com/contact.html)
+
+## Brand pages
+- [Ray-Ban](https://www.alkhaleejopticals.com/ray-ban-glasses-ras-al-khaimah.html)
+- [Emporio Armani](https://www.alkhaleejopticals.com/emporio-armani-glasses-ras-al-khaimah.html)
+- [Armani Exchange](https://www.alkhaleejopticals.com/armani-exchange-glasses-ras-al-khaimah.html)
+- [Essilor lenses](https://www.alkhaleejopticals.com/essilor-lenses-ras-al-khaimah.html)
+- [Kodak Lens](https://www.alkhaleejopticals.com/kodak-lens-ras-al-khaimah.html)
+
+## Optional
+- [Full reference for AI assistants](https://www.alkhaleejopticals.com/llms-full.txt)
+- [Sitemap](https://www.alkhaleejopticals.com/sitemap.xml)

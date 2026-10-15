@@ -1,0 +1,202 @@
+[
+    {
+        "id": "aviator-a1",
+        "name": "Aviator — Classic Black",
+        "shape": "aviator",
+        "color": "black",
+        "faceMatch": ["oval", "square", "heart"],
+        "price": "AED 449",
+        "image": "frame-finder/aviator/a1.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "aviator-a2",
+        "name": "Aviator — Gold",
+        "shape": "aviator",
+        "color": "gold",
+        "faceMatch": ["oval", "square", "heart"],
+        "price": "AED 469",
+        "image": "frame-finder/aviator/a2.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "aviator-a3",
+        "name": "Aviator — Silver",
+        "shape": "aviator",
+        "color": "silver",
+        "faceMatch": ["oval", "square", "heart"],
+        "price": "AED 459",
+        "image": "frame-finder/aviator/a3.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "aviator-a4",
+        "name": "Aviator — Gunmetal",
+        "shape": "aviator",
+        "color": "gunmetal",
+        "faceMatch": ["oval", "square", "heart"],
+        "price": "AED 459",
+        "image": "frame-finder/aviator/a4.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "wayfarer-w1",
+        "name": "Wayfarer — Classic Black",
+        "shape": "wayfarer",
+        "color": "black",
+        "faceMatch": ["round", "oval", "heart"],
+        "price": "AED 429",
+        "image": "frame-finder/wayfarer/w1.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "wayfarer-w2",
+        "name": "Wayfarer — Tortoise",
+        "shape": "wayfarer",
+        "color": "brown",
+        "faceMatch": ["round", "oval", "heart"],
+        "price": "AED 439",
+        "image": "frame-finder/wayfarer/w2.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "wayfarer-w3",
+        "name": "Wayfarer — Dark Brown",
+        "shape": "wayfarer",
+        "color": "brown",
+        "faceMatch": ["round", "oval", "heart"],
+        "price": "AED 429",
+        "image": "frame-finder/wayfarer/w3.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "wayfarer-w4",
+        "name": "Wayfarer — Navy Blue",
+        "shape": "wayfarer",
+        "color": "blue",
+        "faceMatch": ["round", "oval", "heart"],
+        "price": "AED 429",
+        "image": "frame-finder/wayfarer/w4.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "rectangle-rect1",
+        "name": "Rectangle — Classic Black",
+        "shape": "rectangle",
+        "color": "black",
+        "faceMatch": ["round", "oval", "diamond"],
+        "price": "AED 399",
+        "image": "frame-finder/rectangle/rect1.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "rectangle-rect2",
+        "name": "Rectangle — Gunmetal",
+        "shape": "rectangle",
+        "color": "gunmetal",
+        "faceMatch": ["round", "oval", "diamond"],
+        "price": "AED 409",
+        "image": "frame-finder/rectangle/rect2.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "rectangle-rect3",
+        "name": "Rectangle — Tortoise",
+        "shape": "rectangle",
+        "color": "brown",
+        "faceMatch": ["round", "oval", "diamond"],
+        "price": "AED 419",
+        "image": "frame-finder/rectangle/rect3.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "rectangle-rect4",
+        "name": "Rectangle — Blue",
+        "shape": "rectangle",
+        "color": "blue",
+        "faceMatch": ["round", "oval", "diamond"],
+        "price": "AED 409",
+        "image": "frame-finder/rectangle/rect4.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "round-r1",
+        "name": "Round — Classic Black",
+        "shape": "round",
+        "color": "black",
+        "faceMatch": ["square", "rectangle", "heart"],
+        "price": "AED 389",
+        "image": "frame-finder/round/r1.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "round-r2",
+        "name": "Round — Gold",
+        "shape": "round",
+        "color": "gold",
+        "faceMatch": ["square", "rectangle", "heart"],
+        "price": "AED 409",
+        "image": "frame-finder/round/r2.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "round-r3",
+        "name": "Round — Tortoise",
+        "shape": "round",
+        "color": "brown",
+        "faceMatch": ["square", "rectangle", "heart"],
+        "price": "AED 399",
+        "image": "frame-finder/round/r3.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "round-r4",
+        "name": "Round — Silver",
+        "shape": "round",
+        "color": "silver",
+        "faceMatch": ["square", "rectangle", "heart"],
+        "price": "AED 399",
+        "image": "frame-finder/round/r4.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "cateye-cat1",
+        "name": "Cat Eye — Classic Black",
+        "shape": "cat eye",
+        "color": "black",
+        "faceMatch": ["diamond", "heart", "oval"],
+        "price": "AED 419",
+        "image": "frame-finder/cateye/cat1.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "cateye-cat2",
+        "name": "Cat Eye — Burgundy",
+        "shape": "cat eye",
+        "color": "brown",
+        "faceMatch": ["diamond", "heart", "oval"],
+        "price": "AED 429",
+        "image": "frame-finder/cateye/cat2.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "cateye-cat3",
+        "name": "Cat Eye — Tortoise",
+        "shape": "cat eye",
+        "color": "brown",
+        "faceMatch": ["diamond", "heart", "oval"],
+        "price": "AED 429",
+        "image": "frame-finder/cateye/cat3.png",
+        "brand": "Premium"
+    },
+    {
+        "id": "cateye-cat4",
+        "name": "Cat Eye — Gold Accent",
+        "shape": "cat eye",
+        "color": "gold",
+        "faceMatch": ["diamond", "heart", "oval"],
+        "price": "AED 439",
+        "image": "frame-finder/cateye/cat4.png",
+        "brand": "Premium"
+    }
+]

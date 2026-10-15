@@ -1,0 +1,104 @@
+{
+  "general": [
+    {
+      "q": "Where is Al Khaleej Opticals located in Ras Al Khaimah?",
+      "a": "Al Khaleej Opticals has 3 branches in Ras Al Khaimah, including two in Al Nakheel. Open our Contact page for Google Maps directions to each branch, or call or WhatsApp +971 56 774 3136."
+    },
+    {
+      "q": "What are your opening hours?",
+      "a": "We are open Saturday to Thursday from 9:00 AM to 10:00 PM, and on Friday from 4:00 PM to 10:00 PM."
+    },
+    {
+      "q": "How long has Al Khaleej Opticals been serving Ras Al Khaimah?",
+      "a": "Al Khaleej Opticals has served families and professionals in Ras Al Khaimah for more than 22 years, since 2004, with qualified optometrists, modern eye-testing equipment and a wide range of branded eyewear."
+    },
+    {
+      "q": "Do I need an appointment for an eye test?",
+      "a": "You can visit us during opening hours, and booking by phone or WhatsApp on +971 56 774 3136 helps us reserve time for you and cut your waiting."
+    },
+    {
+      "q": "Which eyewear brands do you stock?",
+      "a": "Our brands include Ray-Ban, Emporio Armani, Armani Exchange, EGMA, Vincci, Ocelot, Lyrica, GKB, Matrix and Pixel, plus Essilor and Kodak Lens for prescription lenses. Availability changes, so ask our team about current styles."
+    },
+    {
+      "q": "Can I contact you on WhatsApp?",
+      "a": "Yes. Message us on WhatsApp at +971 56 774 3136 to ask about brands, book an eye test, or check on an order."
+    },
+    {
+      "q": "Which is the best optician in Ras Al Khaimah?",
+      "a": "Customers choose Al Khaleej Opticals in Al Nakheel for more than 22 years of experience, qualified optometrists, modern eye-testing equipment, original branded eyewear, insurance support and corporate programmes. Visit any of our 3 branches and judge for yourself."
+    },
+    {
+      "q": "Where can I buy affordable, high-quality glasses in Ras Al Khaimah?",
+      "a": "Al Khaleej Opticals offers quality prescription glasses, sunglasses and contact lenses across a range of brands and budgets, so you can choose good value without compromising on quality. Call or WhatsApp +971 56 774 3136 for a quote, and ask about insurance and corporate pricing."
+    }
+  ],
+  "eyecare": [
+    {
+      "q": "How much does an eye test cost in Ras Al Khaimah?",
+      "a": "Pricing depends on the type of examination and whether your insurance plan covers it. Call or WhatsApp +971 56 774 3136 and our team will give you a clear answer before you visit."
+    },
+    {
+      "q": "Do you offer eye tests for a driving licence?",
+      "a": "Yes. We carry out certified eye tests for driving licence applications and renewals, quickly and accurately."
+    },
+    {
+      "q": "How often should I have my eyes tested?",
+      "a": "Most adults should have an eye test about every two years, or every year if you wear glasses or contact lenses, have diabetes, or notice changes in your vision. Children should be tested whenever there is a concern."
+    },
+    {
+      "q": "Do you fit contact lenses?",
+      "a": "Yes. We offer contact lens fittings and a range of daily and monthly lenses. Our optometrists will check that your lenses are comfortable and suit your eyes."
+    },
+    {
+      "q": "Can you repair or adjust my glasses?",
+      "a": "Yes. We carry out quick adjustments and repairs such as nose pads, screws and alignment so your glasses fit comfortably again."
+    },
+    {
+      "q": "What lenses help with long hours on computers and phones?",
+      "a": "Blue-light filtering and anti-reflective lenses can reduce discomfort during long screen sessions. Our optometrists will recommend the right option based on your prescription and how you work."
+    }
+  ],
+  "insurance": [
+    {
+      "q": "Which insurance companies do you work with?",
+      "a": "We work with ADNIC, NAS, Nextcare, Mednet, Orient and Saico Health. Coverage depends on your individual plan, so please bring your insurance card or call us before your visit to confirm."
+    },
+    {
+      "q": "Can I use my health insurance for glasses or an eye test?",
+      "a": "Many insurance plans include vision benefits, but terms differ by plan. Our team will help you check what your plan covers and guide you through the process."
+    }
+  ],
+  "corporate": [
+    {
+      "q": "Do you offer corporate eye care programmes in Ras Al Khaimah?",
+      "a": "Yes. Our Corporate Vision Care Programme covers employee eye examinations, prescription eyewear, digital eye strain solutions, safety eyewear and contact lenses for companies of every size across Ras Al Khaimah and the UAE."
+    },
+    {
+      "q": "How can my company tie up with Al Khaleej Opticals?",
+      "a": "Send us a short enquiry through the corporate proposal form or WhatsApp +971 56 774 3136. We will understand your needs, prepare a customised proposal, organise employee enrolment and provide the eye care services and ongoing support."
+    },
+    {
+      "q": "Which industries do you support?",
+      "a": "We support corporate offices, healthcare, education, retail and hospitality, construction and engineering, and transportation and logistics teams."
+    },
+    {
+      "q": "Do you handle bulk orders and delivery for companies?",
+      "a": "Yes. We offer streamlined bulk delivery for corporate and bulk orders, with timely execution and after-sales adjustment support."
+    },
+    {
+      "q": "Can employees use their insurance together with a corporate programme?",
+      "a": "In many cases, yes. We work with major insurers and can structure a programme around your team's existing insurance. Tell us your insurer when you enquire."
+    }
+  ],
+  "frames": [
+    {
+      "q": "How does the AI Frame Finder work?",
+      "a": "Upload a selfie or use your camera on our AI Frame Finder page. The tool maps your facial landmarks in your browser to estimate your face shape and suggests frame styles that suit it, with a virtual try-on."
+    },
+    {
+      "q": "Are my photos uploaded or stored?",
+      "a": "No. The AI Frame Finder analyses your photo in your browser. Your selfie is not uploaded to our servers or stored by us."
+    }
+  ]
+}

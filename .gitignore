@@ -1,0 +1,9 @@
+node_modules/
+.vercel/
+.DS_Store
+Thumbs.db
+.claude/
+
+# stray draft files
+Untitled
+New Text Document.txt
